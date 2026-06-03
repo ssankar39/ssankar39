@@ -28,5 +28,3 @@ CS student at UGA · Full-stack developer · Systems & ML enthusiast · Open to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/sarveshwar-sankar-33646b25b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarveshwarsankar39@gmail.com)
-
-![Sarveshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssankar39&show_icons=true&theme=default&hide_border=true&count_private=true)
