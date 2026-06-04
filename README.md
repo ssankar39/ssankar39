@@ -7,8 +7,8 @@ CS student at UGA · Full-stack developer · Systems & ML enthusiast · Open to 
 ### Tech Stack
 
 **Languages:** JavaScript · TypeScript · Python · Java · C++ · C# · SQL  
-**Frameworks:** React · Next.js · Node.js · Express · .NET 8 · Flask  
-**ML/AI:** ONNX Runtime · BERT Tokenization 
+**Frameworks:** React · Next.js · Node.js · Express · .NET 8 · Flask
+**ML/AI:** ONNX Runtime · BERT Tokenization
 **Databases:** MySQL · PostgreSQL · MongoDB · LanceDB  
 **Tools:** Docker · AWS · Git · Vercel · Firebase  
 
