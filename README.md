@@ -1,6 +1,6 @@
 # Hi, I'm Sarveshwar
 
-**CS Student at UGA** | **Full-Stack Developer** | **Systems & ML Enthusiast** 
+**CS Student at UGA** | **Full-Stack Developer** | **Systems & ML Enthusiast** | 
 *Open to SWE Internships* | *AWS Certified Cloud Practitioner*
 
 ---
