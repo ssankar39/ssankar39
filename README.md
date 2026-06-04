@@ -1,30 +1,37 @@
-## Hi, I'm Sarveshwar
+# Hi, I'm Sarveshwar
 
-CS student at UGA · Full-stack developer · Systems & ML enthusiast · Open to SWE internships · AWS Certified Cloud Practitioner
-
----
-
-### Tech Stack
-
-**Languages:** JavaScript · TypeScript · Python · Java · C++ · C# · SQL  
-**Frameworks:** React · Next.js · Node.js · Express · .NET 8 · Flask
-**ML/AI:** ONNX Runtime · BERT Tokenization
-**Databases:** MySQL · PostgreSQL · MongoDB · LanceDB  
-**Tools:** Docker · AWS · Git · Vercel · Firebase  
+**CS Student at UGA** | **Full-Stack Developer** | **Systems & ML Enthusiast** 
+*Open to SWE Internships* | *AWS Certified Cloud Practitioner*
 
 ---
 
-### Featured Projects
+## Tech Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [VaultRecon](https://github.com/ssankar39/VaultRecon) | Semantic file search engine with sub-500ms latency | C#, .NET 8, ONNX, LanceDB |
-| [Project Velon](https://github.com/ssankar39/project-velon) | AI fitness platform with FDA food DB integration | React, Node.js, MongoDB |
-| [IDX Exchange](https://github.com/ssankar39/idx-project-search) | Full-stack real estate search app | React, Node.js, MySQL, Docker |
+*   **Languages:** JavaScript, TypeScript, Python, Java, C++, C#, SQL
+*   **Frameworks:** React, Next.js, Node.js, Express, .NET 8, Flask
+*   **ML/AI:** ONNX Runtime, BERT Tokenization
+*   **Databases:** MySQL, PostgreSQL, MongoDB, LanceDB
+*   **Tools:** Docker, AWS, Git, Vercel, Firebase
 
 ---
 
-### Reach me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/sarveshwar-sankar-33646b25b/)
+### [VaultRecon](https://github.com/ssankar39/VaultRecon)
+*   **Description:** Semantic file search engine featuring local indexing with sub-500ms latency.
+*   **Stack:** C#, .NET 8, ONNX, LanceDB
+
+### [Project Velon](https://github.com/ssankar39/project-velon)
+*   **Description:** AI-driven fitness platform integrated with the official FDA food database.
+*   **Stack:** React, Node.js, MongoDB
+
+### [IDX Exchange](https://github.com/ssankar39/idx-project-search)
+*   **Description:** Full-stack real estate search application containerized for seamless deployment.
+*   **Stack:** React, Node.js, MySQL, Docker
+
+---
+
+## Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarveshwar-sankar-33646b25b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarveshwarsankar39@gmail.com)
