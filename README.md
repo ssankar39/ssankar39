@@ -1,8 +1,4 @@
 # Hi, I'm Sarveshwar
-
-**CS Student at UGA** | **Full-Stack Developer** | **Systems & ML Enthusiast** | 
-*Open to SWE Internships* | *AWS Certified Cloud Practitioner*
-
 ---
 
 ## Tech Stack
@@ -20,15 +16,15 @@
 ### [VaultRecon](https://github.com/ssankar39/VaultRecon)
 *   **Description:** Semantic file search engine featuring local indexing with sub-500ms latency.
 *   **Stack:** C#, .NET 8, ONNX, LanceDB
-
 ### [Project Velon](https://github.com/ssankar39/project-velon)
 *   **Description:** AI-driven fitness platform integrated with the official FDA food database.
 *   **Stack:** React, Node.js, MongoDB
-
 ### [IDX Exchange](https://github.com/ssankar39/idx-project-search)
 *   **Description:** Full-stack real estate search application containerized for seamless deployment.
 *   **Stack:** React, Node.js, MySQL, Docker
-
+### [WatchDawgs](https://github.com/ssankar39/watch-dawgs)
+*   **Description:** Campus traffic intelligence platform with real-time bus tracking, geospatial incident reporting, and multi-tier auth
+*   **Stack:** React, Next.js, MongoDB, Google Maps API, NextAuth.js
 ---
 
 ## Reach Me
