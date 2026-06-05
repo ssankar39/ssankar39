@@ -4,10 +4,10 @@
 ## Tech Stack
 
 *   **Languages:** JavaScript, TypeScript, Python, Java, C++, C#, SQL
-*   **Frameworks:** React, Next.js, Node.js, Express, .NET 8, Flask
-*   **ML/AI:** ONNX Runtime, BERT Tokenization
+*   **Frameworks:** React, Next.js, Node.js, Express, .NET 8, WPF (MVVM), Flask
+*   **ML/AI:** ONNX Runtime, BERT Tokenization, LanceDB
 *   **Databases:** MySQL, PostgreSQL, MongoDB, LanceDB
-*   **Tools:** Docker, AWS, Git, Vercel, Firebase
+*   **Tools:** Docker, AWS, Git, Vercel, Firebase, Google Maps API, NextAuth.js, JWT, bcrypt
 
 ---
 
