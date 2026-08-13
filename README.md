@@ -5,7 +5,7 @@
 
 *   **Languages:** JavaScript, TypeScript, Python, Java, C++, C#, SQL
 *   **Frameworks:** React, Next.js, Node.js, Express, .NET 8, WPF (MVVM), Flask
-*   **ML/AI:** ONNX Runtime, BERT Tokenization, LanceDB
+*   **ML/AI:** ONNX Runtime, BERT Tokenization, LanceDB, OpenRouter
 *   **Databases:** MySQL, PostgreSQL, MongoDB, LanceDB
 *   **Tools:** Docker, AWS, Git, Vercel, Firebase, Google Maps API, NextAuth.js, JWT, bcrypt
 
@@ -13,6 +13,9 @@
 
 ## Featured Projects
 
+### [Portfolio](https://github.com/ssankar39/Portfolio)
+*   **Description:** Modern developer portfolio featuring an interactive AI Digital Twin assistant powered by OpenRouter, LRU rate-limited API routes, and glassmorphic dark UI.
+*   **Stack:** React, Next.js, TypeScript, OpenRouter API, GenAI, Tailwind CSS, Framer Motion
 ### [VaultRecon](https://github.com/ssankar39/VaultRecon)
 *   **Description:** Semantic file search engine featuring local indexing with sub-500ms latency.
 *   **Stack:** C#, .NET 8, ONNX, LanceDB
